@@ -11,3 +11,16 @@ Aliquam rhoncus magna ultrices, lacinia quam sit amet, lacinia ante. Phasellus a
 
 In a consequat ex. Praesent ultricies nulla dolor. Sed a mollis nunc, sed condimentum arcu. Nam tempor nulla non est fermentum, et fermentum tellus eleifend.
 Aenean tempus quis ligula vitae suscipit. Nulla consectetur, augue ac scelerisque vulputate, odio velit semper nisi, sit amet ornare diam purus in urna. Proin interdum efficitur faucibus. Sed sit amet purus velit. Nullam molestie, erat nec lobortis vestibulum, risus enim semper magna, ut luctus massa purus scelerisque dolor.
+Assim que adicionar este bloco com os comandos de sua escolha, ele irá
+funcionar imediatamente.
+Segue abaixo os caminhos para encontrar o arquivo /.gitconfig nos sistemas
+operacionais:
+• Windows:
+1. C:\\Pasta_do_seu_projeto\\.git\\config
+2. C:\\Documents and Settings\\Seu_usuario\\.gitconfig
+3. C:\\Arquivos de programas\\Git\\etc\\gitconfig
+• Mac:
+1. /Pasta_do_seu_projeto/.git/config
+2. /Users/Seu_usuario/.gitconfig
+3. /usr/local/git/etc/gitconfig
+• Linux:
